@@ -3,7 +3,7 @@ class Artist
 attr_accessor :title 
 
   def initialize(title)
-    @title
+    @title = title
     
   end 
 
